@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="309f0dea-67d4-4ac2-82d3-490e18d6a691" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/ValidationHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/ValidationHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ui/LoaderDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ui/LoaderDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ui/MainUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ui/MainUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/test_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725967796959</updated>
-      <workItem from="1725967799473" duration="17597000" />
+      <workItem from="1725967799473" duration="19363000" />
     </task>
     <servers />
   </component>

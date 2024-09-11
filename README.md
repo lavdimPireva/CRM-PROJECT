@@ -3,6 +3,12 @@
 ## Overview
 This is a simple CRM (Customer Relationship Management) application developed in Java using Java Swing for the user interface and PostgreSQL for the database. The application allows users to manage customer information, including adding, updating, and deleting customers from a database.
 
+
+## Screenshot
+Here is an example of the user interface:
+![Customer Management System](screenshot/gui.png)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -46,7 +52,7 @@ This is a simple CRM (Customer Relationship Management) application developed in
 
 1. Log into your PostgreSQL instance:
     ```bash
-    psql -U postgres
+    psql -d customer
     ```
 2. Create a database for the CRM application:
     ```sql
