@@ -1,4 +1,3 @@
--- Create the customers table
 CREATE TABLE IF NOT EXISTS customers (
                                          id SERIAL PRIMARY KEY,
                                          name VARCHAR(255) NOT NULL,
@@ -8,7 +7,6 @@ CREATE TABLE IF NOT EXISTS customers (
     date_added DATE DEFAULT CURRENT_DATE
     );
 
--- Insert some test data
 INSERT INTO customers (name, email, phone, address) VALUES
                                                         ('John Doe', 'john@example.com', '555-1234', '123 Main St'),
                                                         ('Jane Smith', 'jane@example.com', '555-5678', '456 Oak St'),
